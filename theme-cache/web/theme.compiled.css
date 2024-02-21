@@ -27470,4 +27470,18 @@ input[type=checkbox].three-state-checkbox + .control-label {
   border-width: 0;
 }
 
+.redClass {
+  color: red;
+  text-align: right !important;
+  padding-right: 10px;
+}
+
+.bulueClass {
+  color: green;
+}
+
+.myscroll {
+  overflow: scroll;
+}
+
 /*# sourceMappingURL=theme.compiled.css.map */
