@@ -27484,4 +27484,8 @@ input[type=checkbox].three-state-checkbox + .control-label {
   overflow: scroll;
 }
 
+.inputClass .form-control {
+  margin-left: 8%;
+}
+
 /*# sourceMappingURL=theme.compiled.css.map */
